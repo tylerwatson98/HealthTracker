@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">HealthTracker</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_username">Username</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home">Home</string>
+    <string name="view_patients">View Patients</string>
+    <string name="search1">Search</string>
+    <string name="view_map">View Map</string>
+    <string name="view_users">View Users</string>
+    <string name="add_patient">Add Patient</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="keywords">Keywords</string>
+    <string name="back1">Back</string>
+    <string name="back2">Back</string>
+    <string name="patient_id">Patient ID</string>
+    <string name="back3">Back</string>
+    <string name="save">Save</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="back_from_settings">Back</string>
+    <string name="save_settings">Save</string>
+    <string name="user_id_settings">User ID</string>
+    <string name="email_settings">Email</string>
+    <string name="phone_settings">Phone</string>
+    <string name="back_from_problem_view">Back</string>
+    <string name="back_from_problem">Back</string>
+    <string name="provider_add_comment">Add Comment</string>
+    <string name="records_care_provider">Records</string>
+    <string name="back_from_careprovider_comment">Back</string>
+    <string name="save_care_comment">Save</string>
+    <string name="care_comment_title">Title</string>
+    <string name="care_comment">Comment</string>
+
+    <string name="searchType">Search Type</string>
+    <string name="home_from_userlist">Home</string>
+    <string name="add_problem">Add Problem</string>
+    <string name="problem_title">Title</string>
+    <string name="max_title_length">Max 30 Char</string>
+    <string name="date_started">Date Started</string>
+    <string name="startdate_edit">Date</string>
+    <string name="problem_description">Description</string>
+    <string name="max_descript_length">Max 300 Char</string>
+    <string name="back_from_add_problem">Back</string>
+    <string name="add_new_problem">Save</string>
+    <string name="test_login_checkbox">Care Provider</string>
+    <string name="back_from_myproblems">Home</string>
+    <string name="view_myproblems">View Problems</string>
+
+
+    <string-array name="searchTypes">
+        <item>Keywords</item>
+        <item>Geo-location</item>
+        <item>Body-location</item>
+    </string-array>
+
+
+</resources>
